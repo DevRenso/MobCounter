@@ -1,0 +1,6 @@
+name: MobCounter
+version: ${project.version}
+main: dev.renso.mobcounter.MobCounter
+authors: [DevRenso]
+commands:
+  check:

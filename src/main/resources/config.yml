@@ -1,0 +1,11 @@
+MYSQL:
+  HOST: localhost
+  PORT: 3306
+  DATABASE: mobcounter
+  USERNAME: root
+  PASSWORD: password
+  TABLE: players
+KILL-REWARDS:
+  "1":
+    COMMANDS:
+      - "give %player% diamond 1"
